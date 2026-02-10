@@ -12,3 +12,12 @@ on decisions and action items.
 
 Teams waste time coordinating logistics instead of focusing on outcomes, and important context from meetings is often lost
 across personal notes and messaging tools.
+
+## Solution
+
+This platform centralizes room booking, meeting management, and Minutes of Meeting into a single system with clear workflows
+and role-based access. It provides a shared source of truth for room availability, meeting details, and post-meeting outcomes,
+helping teams coordinate more efficiently and maintain consistent documentation across the organization.
+
+By bringing scheduling, meetings, and follow-ups into one place, the system reduces coordination overhead, prevents conflicts,
+and improves visibility for both day-to-day users and administrators.
