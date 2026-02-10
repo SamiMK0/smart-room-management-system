@@ -47,5 +47,10 @@ documentation workflows to evolve independently while remaining part of a cohesi
 - Authentication & Authorization: Role-based access to separate administrative workflows from regular user flows
 
 
+### Technologies Used
+
+- Backend: Laravel (RESTful APIs for authentication, room booking, meetings, and MoM workflows), tested using Postman
+- Frontend: React with Tailwind CSS for building responsive, role-based user interfaces
+- Database: MySQL for relational data storage
 
 
