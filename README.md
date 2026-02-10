@@ -64,6 +64,10 @@ High-level setup steps:
 4. Install frontend dependencies and start the development server
 5. Access the application through the local development URL
 
+## Demo & Screenshots
+
+Screenshots and a short walkthrough of the system will be added here to showcase the main user flows,
+including room booking, meeting management, and Minutes of Meeting workflows.
 
 
 
