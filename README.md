@@ -72,8 +72,8 @@ High-level setup steps:
 ![Register](screenshots/register.png)
 
 ### Room Booking
-![Book Room](screenshots/book room.png)
-![Add Room](screenshots/add room.png)
+![Book Room](screenshots/book-room.png)
+![Add Room](screenshots/add-room.png)
 
 ### Admin Panel
 ![Admin](screenshots/admin.png)
