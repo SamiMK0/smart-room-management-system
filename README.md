@@ -39,3 +39,13 @@ as first-class entities, enabling consistent behavior and validation across the 
 The architecture emphasizes clear boundaries between concerns, allowing booking logic, meeting management, and
 documentation workflows to evolve independently while remaining part of a cohesive system.
 
+## Tech Stack
+
+- Backend: Server-side application responsible for authentication, role-based access control, booking logic, and data validation
+- Frontend: User-facing web interface for room browsing, bookings, meetings, and Minutes of Meeting management
+- Database: Relational database for persistent storage of users, rooms, bookings, meetings, and MoM records
+- Authentication & Authorization: Role-based access to separate administrative workflows from regular user flows
+
+
+
+
