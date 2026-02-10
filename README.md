@@ -1,4 +1,4 @@
-# smart-room-management-system
+# Smart Room Management System
 
 A multi-role web platform for booking meeting rooms, managing meetings, and capturing Minutes of Meeting (MoM) within organizations.
 
