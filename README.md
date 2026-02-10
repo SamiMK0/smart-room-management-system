@@ -29,3 +29,13 @@ and improves visibility for both day-to-day users and administrators.
 - Meeting management with agendas, attendees, and structured Minutes of Meeting (MoM)
 - Centralized tracking of decisions and action items to support follow-up and accountability
 - Administrative oversight for rooms, users, and booking activity with operational visibility
+
+## System Architecture
+
+The system is designed as a modular, role-based web application with a clear separation between user-facing workflows
+and administrative management. Core domains such as rooms, bookings, meetings, and Minutes of Meeting are modeled
+as first-class entities, enabling consistent behavior and validation across the platform.
+
+The architecture emphasizes clear boundaries between concerns, allowing booking logic, meeting management, and
+documentation workflows to evolve independently while remaining part of a cohesive system.
+
