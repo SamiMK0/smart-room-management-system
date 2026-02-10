@@ -21,3 +21,11 @@ helping teams coordinate more efficiently and maintain consistent documentation 
 
 By bringing scheduling, meetings, and follow-ups into one place, the system reduces coordination overhead, prevents conflicts,
 and improves visibility for both day-to-day users and administrators.
+
+## Key Capabilities
+
+- Role-based access with separate experiences for administrators and end users
+- End-to-end room booking workflows with availability checks and scheduling controls
+- Meeting management with agendas, attendees, and structured Minutes of Meeting (MoM)
+- Centralized tracking of decisions and action items to support follow-up and accountability
+- Administrative oversight for rooms, users, and booking activity with operational visibility
