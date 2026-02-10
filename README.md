@@ -53,4 +53,17 @@ documentation workflows to evolve independently while remaining part of a cohesi
 - Frontend: React with Tailwind CSS for building responsive, role-based user interfaces
 - Database: MySQL for relational data storage
 
+## Setup & Run
+
+To run the project locally, you will need a standard web development environment with PHP, Node.js, and a relational database.
+
+High-level setup steps:
+1. Clone the repository
+2. Install backend dependencies and configure environment variables
+3. Run database migrations and seed initial data
+4. Install frontend dependencies and start the development server
+5. Access the application through the local development URL
+
+
+
 
